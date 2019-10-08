@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZZFoundation_Tests' do
+  pod 'ZZFoundation', :path => '../'
+  
+  
+end
