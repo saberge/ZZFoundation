@@ -1,0 +1,16 @@
+PODS:
+  - ZZFoundation (0.1.0)
+
+DEPENDENCIES:
+  - ZZFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  ZZFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZFoundation: c5545078c5645a08992b8527b4b1d2fce26f880c
+
+PODFILE CHECKSUM: 3ebbe0926600263abe1a937806036ab71c8c79fa
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,22 @@
+{
+  "name": "ZZFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of ZZFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/saberge@163.com/ZZFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "saberge@163.com": "laixian.zheng@zhangmen.com"
+  },
+  "source": {
+    "git": "https://github.com/saberge@163.com/ZZFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZFoundation/Classes/**/*"
+}
